@@ -1,6 +1,6 @@
-class Main{
-
-  public static void main(String[] args){
+class Main {
+  
+  public static void main(String[] args) {
     MoneyTest mt = new MoneyTest();
     mt.testEquality();
 
@@ -9,6 +9,6 @@ class Main{
 
     FrancTest ft = new FrancTest();
     ft.testFrancMultiplication();
+    
   }
-
 }
