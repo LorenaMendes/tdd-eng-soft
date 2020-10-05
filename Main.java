@@ -8,8 +8,6 @@ class Main {
     DollarTest dt = new DollarTest();
     dt.testMultiplication();
 
-    FrancTest ft = new FrancTest();
-    ft.testFrancMultiplication();
   }
   
 }
